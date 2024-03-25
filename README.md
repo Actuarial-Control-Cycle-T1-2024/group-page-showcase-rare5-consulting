@@ -138,6 +138,8 @@ As shown in the figure to the right, the first 10 years showcases an increase in
 
 ![T20: Present Value of Profits Sold Each Year](T20_PV_of_profits.png)
 
+<img src="T20_PV_of_profits.png" alt="T20: Present Value of Profits Sold Each Year" width="100"/>
+
 #### *Single Premium Whole Life Insurance*
 A similar trend was found for SPWL, as shown on the right. The premiums were lower across all consumer segments since mortality savings were greater than the expenses paid (Appendix C.3). However, due to SPWL insurance being, on average, more profitable compared to term life insurance, the magnitude of the profit earned is far greater.
 ![SPWL: Present Value of Profits Sold Each Year](SPWL_PV_of_Profits.png)
