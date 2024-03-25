@@ -163,9 +163,7 @@ To ensure SuperLife is acting in the best interest of its policyholders, we reco
 Through carrying out various sensitivity analysis, we found the greatest impact on profit is the number of policyholders that the new program will attract.
 
 
-<img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="400"/>
-
-<img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="400"/>
+<img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="400"/> <img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="400"/>
 
 Similar trends are found for T20 and SPWL products, where the increase in policyholders has the greatest impact on profit after 10 years. Whilst majority of the stresses overtake the base case (which assumes no program), a 10% improvement in policyholder rates does not ever generate more profit than the base case. If SuperLife finds itself in a situation whereby profits are not exceeding the base case due to policyholder participation, investigation into why this is the case should be undertaken. SuperLife should reassess its premiums, marketing, or attractiveness of each program. However, we are confident that the attractiveness and marketability of the program will fall between a 20-30% improvement in participation. This, as shown above, will reap favourable economic benefits.
 
