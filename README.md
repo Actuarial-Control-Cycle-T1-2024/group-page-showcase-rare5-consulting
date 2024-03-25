@@ -164,8 +164,8 @@ Through carrying out various sensitivity analysis, we found the greatest impact 
 
 <table>
   <tr>
-    <td><img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="300"/></td>
-    <img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="300"/></td>
+    <td><img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="200"/></td>
+    <img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="200"/></td>
   </tr>
 </table>
 
