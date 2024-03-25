@@ -113,7 +113,9 @@ The pricing of the insurance policies for both SPWL and T20 are dependent on sev
 ## Pricing and Costs 
 ### Mortality Savings
 The mortality savings were calculated to assess the impact of mortality improvements on pay- outs. To obtain this, we found the total sum of claims per segment per year for the last 20 years. The improved mortality rate if the program was in effect for each segment was then divided by the base mortality with no program to identify the ratio of improved to base mortality. Finally, the improved mortality ratio was multiplied by the total pay-out without the program to obtain the new total pay-out and the percentage saving because of the program. From the below graph, by implementing the program, we can expect mortality savings ranging from 10% to 24%.
+
 |Segment(Sex/Smoker Status/Underwriting Class)|Total Pay-out without Program ($m)|Improved Mortality Ratio|Total Pay-out with Program ($m)|% Saving|
+|---------------------------------------------|----------------------------------|------------------------|----------------------------------|---------|
 |Male/Smoker/High|1,822.05|76.64%|1,396.37|23.36%|
 |Male/Smoker/Moderate|5,045.60|76.86%|3,877.80|23.14%|
 |Male/Non-Smoker/High|1,522.05|89.60%|1,363.70|10.40%| 
