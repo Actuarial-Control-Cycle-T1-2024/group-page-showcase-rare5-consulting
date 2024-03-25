@@ -114,19 +114,18 @@ The pricing of the insurance policies for both SPWL and T20 are dependent on sev
 ### Mortality Savings
 The mortality savings were calculated to assess the impact of mortality improvements on pay- outs. To obtain this, we found the total sum of claims per segment per year for the last 20 years. The improved mortality rate if the program was in effect for each segment was then divided by the base mortality with no program to identify the ratio of improved to base mortality. Finally, the improved mortality ratio was multiplied by the total pay-out without the program to obtain the new total pay-out and the percentage saving because of the program. From the below graph, by implementing the program, we can expect mortality savings ranging from 10% to 24%.
 |Segment(Sex/Smoker Status/Underwriting Class)|Total Pay-out without Program ($m)|Improved Mortality Ratio|Total Pay-out with Program ($m)|% Saving|
-|Male/Smoker/High
-|Male/Smoker/Moderate
-|Male/Non-Smoker/High 
-|Male/Non-Smoker/Moderate 
-|Male/Non-Smoker/Low 
-|Male/Non-Smoker/Very Low 
-|Female/Smoker/High 
-|Female/Smoker/Moderate 
-|Female/Non-Smoker/High 
-|Female/Non-Smoker/Moderate
-|Female/Non-Smoker/Low 
-|Female/Non-Smoker/Very Low
-NOT COMPLETE 
+|Male/Smoker/High|1,822.05|76.64%|1,396.37|23.36%|
+|Male/Smoker/Moderate|5,045.60|76.86%|3,877.80|23.14%|
+|Male/Non-Smoker/High|1,522.05|89.60%|1,363.70|10.40%| 
+|Male/Non-Smoker/Moderate|2,617.50|89.50%|2,342.54|10.50%| 
+|Male/Non-Smoker/Low|3,496.45|89.50%|3,129.16|10.50%| 
+|Male/Non-Smoker/Very Low|3,873.30|89.59%|3,470.22|10.41%| 
+|Female/Smoker/High|605.75|76.48%|463.29|23.52%| 
+|Female/Smoker/Moderate|1,690.65|76.43%|1,292.14|23.57%| 
+|Female/Non-Smoker/High|676.30|89.56%|605.71|10.44%| 
+|Female/Non-Smoker/Moderate|1,297.65|89.60%|1,162.64|10.40%|
+|Female/Non-Smoker/Low|1,620.55|89.56%|1,451.34|10.44%| 
+|Female/Non-Smoker/Very Low|1,961.10|89.47%|1,754.63|10.53%|
 
 ### Economic Value
 To assess the economic value of the program, the profit was used. It was calculated by first finding profit per policy per year and then multiplying it by the best estimate of policy count. A step-by-step methodology on how annual premium and profit was calculated for T20 and SPWL policies can be found in Appendix C.2.
