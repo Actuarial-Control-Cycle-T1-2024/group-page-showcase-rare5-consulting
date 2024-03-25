@@ -140,7 +140,7 @@ As shown in the figure to the right, the first 10 years showcases an increase in
 
 #### *Single Premium Whole Life Insurance*
 A similar trend was found for SPWL, as shown on the right. The premiums were lower across all consumer segments since mortality savings were greater than the expenses paid (Appendix C.3). However, due to SPWL insurance being, on average, more profitable compared to term life insurance, the magnitude of the profit earned is far greater.
-![SPWL: Present Value of Profits Sold Each Year](SPWL_PV_of_profits.png)
+![SPWL: Present Value of Profits Sold Each Year](SPWL_PV_of_Profits.png)
 
 ## Premium Changes
 The premiums above assume a 10% profit margin. Due to limited data, we were not able to carry out extensive research into competitor pricing. If competitor pricing is cheaper, SuperLife should consider reducing their profit margins to become more competitive. Cost-reduction efforts can involve negotiation with vendors (i.e., partnered medical care providers can provide lower-cost service) and creating more targeted incentives (i.e., health incentives will prioritise more at-risk groups with poorer lifestyle, as opposed to already healthy groups with adequate lifestyle, to ensure the highest mortality reductions).
