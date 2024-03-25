@@ -161,7 +161,12 @@ To ensure SuperLife is acting in the best interest of its policyholders, we reco
 
 ## Sensitivity Analysis
 Through carrying out various sensitivity analysis, we found the greatest impact on profit is the number of policyholders that the new program will attract.
-
+<table>
+  <tr>
+    <td><img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="400"/></td>
+    <img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="400"/></td>
+  </tr>
+</table>
 
 <img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="400"/> <img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="400"/>
 
