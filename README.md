@@ -136,12 +136,12 @@ To assess the economic value of the program, the profit was used. It was calcula
 Due to the improved mortality, the premiums charged per individual have improved across all segments (Appendix C.3), even with the increase of expenses charged to the policyholder with the program. The improvement is very minimal for the first 10 years, whilst the decrease is more noticeable when mortality improvements are realised. Due to decrease in premium collected, the profit per policyholder expectingly will decrease. However, this is offset by an increase in policyholder count.
 As shown in the figure to the right, the first 10 years showcases an increase in profit. This is due to an increase in expenses with very minimal mortality benefit. However, after the full benefit for mortality is realised, and the number of policyholders expected to join SuperLife increases, the overall PV of profit earned per year exceeds that of the status quo.
 
-<img src="T20_PV_of_profits.png" alt="T20: Present Value of Profits Sold Each Year" width="700"/>
+<img src="T20_PV_of_profits.png" alt="T20: Present Value of Profits Sold Each Year" width="600"/>
 
 #### *Single Premium Whole Life Insurance*
 A similar trend was found for SPWL, as shown on the right. The premiums were lower across all consumer segments since mortality savings were greater than the expenses paid (Appendix C.3). However, due to SPWL insurance being, on average, more profitable compared to term life insurance, the magnitude of the profit earned is far greater.
 
-<img src="SPWL_PV_of_Profits.png" alt="SPWL: Present Value of Profits Sold Each Year" width="700"/>
+<img src="SPWL_PV_of_Profits.png" alt="SPWL: Present Value of Profits Sold Each Year" width="600"/>
 
 ## Premium Changes
 The premiums above assume a 10% profit margin. Due to limited data, we were not able to carry out extensive research into competitor pricing. If competitor pricing is cheaper, SuperLife should consider reducing their profit margins to become more competitive. Cost-reduction efforts can involve negotiation with vendors (i.e., partnered medical care providers can provide lower-cost service) and creating more targeted incentives (i.e., health incentives will prioritise more at-risk groups with poorer lifestyle, as opposed to already healthy groups with adequate lifestyle, to ensure the highest mortality reductions).
@@ -163,9 +163,9 @@ To ensure SuperLife is acting in the best interest of its policyholders, we reco
 Through carrying out various sensitivity analysis, we found the greatest impact on profit is the number of policyholders that the new program will attract.
 
 
-<img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="700"/>
+<img src="T20_Sensitivity.png" alt="T20 Sensitivity" width="400"/>
 
-<img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="700"/>
+<img src="SPWL_Sensitivity.png" alt="SPWL Sensitivity" width="400"/>
 
 Similar trends are found for T20 and SPWL products, where the increase in policyholders has the greatest impact on profit after 10 years. Whilst majority of the stresses overtake the base case (which assumes no program), a 10% improvement in policyholder rates does not ever generate more profit than the base case. If SuperLife finds itself in a situation whereby profits are not exceeding the base case due to policyholder participation, investigation into why this is the case should be undertaken. SuperLife should reassess its premiums, marketing, or attractiveness of each program. However, we are confident that the attractiveness and marketability of the program will fall between a 20-30% improvement in participation. This, as shown above, will reap favourable economic benefits.
 
