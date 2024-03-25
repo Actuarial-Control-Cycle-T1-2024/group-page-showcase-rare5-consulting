@@ -135,6 +135,7 @@ To assess the economic value of the program, the profit was used. It was calcula
 #### *20-Year Term Life*
 Due to the improved mortality, the premiums charged per individual have improved across all segments (Appendix C.3), even with the increase of expenses charged to the policyholder with the program. The improvement is very minimal for the first 10 years, whilst the decrease is more noticeable when mortality improvements are realised. Due to decrease in premium collected, the profit per policyholder expectingly will decrease. However, this is offset by an increase in policyholder count.
 As shown in the figure to the right, the first 10 years showcases an increase in profit. This is due to an increase in expenses with very minimal mortality benefit. However, after the full benefit for mortality is realised, and the number of policyholders expected to join SuperLife increases, the overall PV of profit earned per year exceeds that of the status quo.
+![T20: Present Value of Profits Sold Each Year](/T20 PV of Profits.png)
 
 #### *Single Premium Whole Life Insurance*
 A similar trend was found for SPWL, as shown on the right. The premiums were lower across all consumer segments since mortality savings were greater than the expenses paid (Appendix C.3). However, due to SPWL insurance being, on average, more profitable compared to term life insurance, the magnitude of the profit earned is far greater.
