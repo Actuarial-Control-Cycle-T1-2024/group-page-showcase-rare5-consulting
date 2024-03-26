@@ -2,7 +2,7 @@
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
 ___
 
-### Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan Yasmin Haideri
+### Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan and Yasmin Haideri
 ___
 
 ## Table of Contents
