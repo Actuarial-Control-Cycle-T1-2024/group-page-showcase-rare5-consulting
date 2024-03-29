@@ -185,7 +185,7 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 
 ### Links to relevant Rcode
 - EDA code
-- Pricing and profit model code
+- [Pricing and profit model code](Pricing-Codes_T20-and-SPWL.r)
 - Interest rate/inflation code
 - Mortality Tables
 - Policyholder increase
