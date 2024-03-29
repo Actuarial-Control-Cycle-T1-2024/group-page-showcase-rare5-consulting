@@ -85,6 +85,7 @@ The pricing of the insurance policies for both SPWL and T20 are dependent on sev
 - A lapse rate of 2% for T20 policies was set. This was based on historical information using the most recent 10 years. It was found that lapse rates were relatively consistent around 2% for all years, and all policy durations (Appendix B.1).
 - Based on Lumaria Historical Inflation and Interest rates between 1962 and 2023, an investment rate of 8% and discount rate of 11% was calculated (Appendix B.2).
 - Cost of incentives per policyholder was dependent on the ‘Interventions Data’ provided by SuperLife’s product team. The midpoint of the range was chosen to be the best estimate for costs and mortality improvement. Whilst we expect that costs will decrease as the program matures; we have assumed inflation will counteract the decrease.
+  
   |Intervention Name | Costs | Mortality Improvement|
   |------------------|-------|----------------------|
   |Gamifying Health - Financial Incentives| 52.5 Č| 3.5% |
@@ -92,9 +93,11 @@ The pricing of the insurance policies for both SPWL and T20 are dependent on sev
   |Safety Campaigns| 22.5 Č| 4%|
   |Cancer Prevention Initiatives Educational Workshops|52.5 Č|7.5%|
   |Annual Health Check-ups**|0 Č| 7.5%|
-*See Appendix A.2
 
-**See Appendix B.3
+  *See Appendix A.2
+
+  **See Appendix B.3
+  
 - Mortality improvement rates for each program (as shown above) were also dependent on the ‘Interventions Data’ provided by SuperLife’s product team.
   - We have also assumed that mortality improvements uniformly impact all ages, except policyholders over 80, who experience no mortality improvement, as mortality improvements are unlikely to occur at older ages.
   - As there are numerous incentives in place, there is likely to be an interaction effect, which reduces the improvement in mortality as certain interventions may overlap. This is done by applying a penalty to mortality improvement based on the number of interventions, which is six for smokers and five for nonsmokers (Appendix B.4).
