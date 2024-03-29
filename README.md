@@ -195,7 +195,7 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 1. Bhattacharyya, et al., (2008), Therapy for Cessation of Smoking, Med J Armed Forces India. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4921594/
 2. Crimmins (2015). Lifespan and Healthspan: Past, Present, and Promise. Gerontologist. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861644/
 3. Gallucci, et al., (2020) Cardiovascular risk of smoking and benefits of smoking cessation. J Thorac Dis. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7399440/
-4. Joyce, et al (2008). The Effectiveness of Covering Smoking Cessation Services for Medicare Beneficiaries. Health Services Research, Link: https://sci- hub.se/10.1111/j.1475-6773.2008.00891.x
+4. Joyce, et al (2008). The Effectiveness of Covering Smoking Cessation Services for Medicare Beneficiaries. Health Services Research, Link: https://sci-hub.se/10.1111/j.1475-6773.2008.00891.x
 5. Mitesh, et al. (2019), Improving healthcare by gamifying it, Havard Business Review, Link: https://hbr.org/2019/05/improving-health-care-by-gamifying-it
 6. Qin, et al. (2020) Light Cigarette Smoking Increases Risk of All-Cause and Cause- Specific Mortality: Findings from the NHIS Cohort Study. Int J Environ Res Public Health. 2020 Jul 15;17(14):5122. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7399798/
 7. van den Brand, et al. (2017). Healthcare financing systems for increasing the use of tobacco dependence treatment. The Cochrane database of systematic reviews, 9(9), CD004305. Link: https://pubmed.ncbi.nlm.nih.gov/28898403/
