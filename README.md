@@ -190,8 +190,9 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 - Mortality Tables
 - Policyholder increase
 - [Economic Value](Economic_Value.xlsx)
-- [Historical Payout Tables](PayoutTables.xlsx)
-- [Historical Mortality Savings](Savings.xlsx)
+- [Mortality Savings code](Savings.R)
+- [Payout Tables](PayoutTables.xlsx)
+- [Mortality Savings](Savings.xlsx)
 
   
 ## References
