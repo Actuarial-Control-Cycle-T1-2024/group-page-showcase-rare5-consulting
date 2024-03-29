@@ -189,7 +189,7 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 - Interest rate/inflation code
 - Mortality Tables
 - Policyholder increase
-- [Economic Value](Economic-Value.xlsx)
+- [Economic Value](Economic_Value.xlsx)
 
   
 ## References
