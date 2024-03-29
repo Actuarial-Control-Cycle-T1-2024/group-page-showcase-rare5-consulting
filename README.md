@@ -181,6 +181,8 @@ Similar trends are found for T20 and SPWL products, where the increase in policy
 ## Conclusion
 Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying Health, Smoking Cessation Program and Holistic Prevention & Educational Programs) to incentivise healthy behaviours. This will reduce mortality rates, boost life insurance sales, and thus create economic value. Through the constant monitoring of performance metrics, we believe that the program will on average yield significant mortality savings. Despite several data limitations necessitating the development of assumptions, we remain confident that SuperLife will still benefit from mortality improvements and make strong progress towards its five objectives which collectively will improve the health & wellbeing of the Lumarian population.
 
+### Appendix available in [Final Report PDF](Rare5_Consulting_Report.pdf)
+
 ## References
 1. Bhattacharyya, et al., (2008), Therapy for Cessation of Smoking, Med J Armed Forces India. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4921594/
 2. Crimmins (2015). Lifespan and Healthspan: Past, Present, and Promise. Gerontologist. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861644/
