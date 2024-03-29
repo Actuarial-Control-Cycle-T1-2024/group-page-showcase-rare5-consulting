@@ -6,17 +6,17 @@
 ---
 
 ## Table of Contents
-- [Objectives](#Objectives)
-- [Program Design](#Program_Design)
-- [Performance Metrics](#section-1)
-- [Assumptions](#section-2)
+- [Objectives](#objectives)
+- [Program Design](#program-design)
+- [Performance Metrics](#performance-metrics)
+- [Assumptions](#assumptions)
 - [Data Limitations](#conclusion)
-- [Pricing and Costs](#Pricing_and_Costs)
-- [Ethical_Considerations](#Ethical_Considerations)
-- [Senstivity Analysis](#Senstivity_Analysis)
-- [Risk and Risk Mitigation Considerations](Risk_and_Risk_Mitigation_Considerations)
-- [Conclusion](#Conclusion)
-- [References](#References)
+- [Pricing and Costs](#pricing-and-costs)
+- [Ethical Considerations](#ethical-considerations)
+- [Sensitivity Analysis](#sensitivity-analysis)
+- [Risk and Risk Mitigation Considerations](risk-and-risk-mitigation-considerations)
+- [Conclusion](#conclusion)
+- [References](#references)
   
 ---
 
