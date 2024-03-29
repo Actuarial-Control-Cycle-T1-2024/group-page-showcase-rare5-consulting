@@ -183,6 +183,14 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 
 ### Appendix available in [Final Report PDF](Rare5_Consulting_Report.pdf)
 
+### Links to relevant Rcode
+- EDA code
+- Pricing and profit model code
+- Interest rate/inflation code
+- Mortality Tables
+- Policyholder increase
+
+  
 ## References
 1. Bhattacharyya, et al., (2008), Therapy for Cessation of Smoking, Med J Armed Forces India. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4921594/
 2. Crimmins (2015). Lifespan and Healthspan: Past, Present, and Promise. Gerontologist. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861644/
