@@ -192,7 +192,7 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 - [EDA code](EDA.R)
 - [Pricing and profit model code](Pricing-Codes_T20-and-SPWL.r)
 - [Interest rate/inflation code](Assumptions.R)
-- [Mortality Tables] (https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Mortality%20Tables%20and%20Mortality%20Improvement.xlsx)
+- [Mortality Tables](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Mortality%20Tables%20and%20Mortality%20Improvement.xlsx)
 - [Policyholder increase]
 - [Economic Value](Economic_Value.xlsx)
 - [Savings code](Savings.R)
