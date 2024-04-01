@@ -201,6 +201,7 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 - [Mortality Savings](Savings.xlsx)
 
 </font>  
+
 ## References
 1. Bhattacharyya, et al., (2008), Therapy for Cessation of Smoking, Med J Armed Forces India. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4921594/
 2. Crimmins (2015). Lifespan and Healthspan: Past, Present, and Promise. Gerontologist. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861644/
