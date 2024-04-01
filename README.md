@@ -1,5 +1,14 @@
+<style>
+body {
+    color: #7589d9;
+}
+</style>
+
 # 2024 SOA Challenge 
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
+
+![Lumaria citizens](https://github.com/celia1901/Rare5/blob/images/Unknown.png?raw=true)
+
 ---
 
 ### Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan and Yasmin Haideri
