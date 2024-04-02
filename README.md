@@ -1,4 +1,4 @@
-<font color="#7589d9">
+
 
 # 2024 SOA Challenge 
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
@@ -200,7 +200,7 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 - [Payout Tables](PayoutTables.xlsx)
 - [Mortality Savings](Savings.xlsx)
 
-</font>  
+ 
 
 ## References
 1. Bhattacharyya, et al., (2008), Therapy for Cessation of Smoking, Med J Armed Forces India. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4921594/
