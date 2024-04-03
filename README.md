@@ -3,7 +3,7 @@
 # 2024 SOA Challenge 
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
 
-![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/8feaae47e0fc53c82cc7b7b10980c2dccddc900d/2nd-TKR-montaigne-covid-animation-.gif) (Source 1)
+![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/8feaae47e0fc53c82cc7b7b10980c2dccddc900d/2nd-TKR-montaigne-covid-animation-.gif) [Source 1](#sources)
 ---
 
 ### Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan and Yasmin Haideri
