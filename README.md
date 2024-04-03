@@ -199,7 +199,7 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 - [Savings code](Savings.R)
 - [Payout Tables](PayoutTables.xlsx)
 - [Mortality Savings](Savings.xlsx)
-- [Senstivity Analysis](Economic Value)
+- [Senstivity Analysis]([Economic Value)](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/tree/0caef455567b2c70365c4437555e4a9b6e9f1f73/Economic%20Value)
 
  
 
