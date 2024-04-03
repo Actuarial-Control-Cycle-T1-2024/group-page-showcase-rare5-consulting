@@ -6,7 +6,7 @@
 <img src="https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1">
 Source: https://www.everydayhealth.com/about-us/ 
 
-# Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan and Yasmin Haideri
+## Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan and Yasmin Haideri
 ---
 
 ## Table of Contents
