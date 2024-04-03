@@ -3,7 +3,7 @@
 # 2024 SOA Challenge 
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
 
-![Lumaria citizens](https://github.com/celia1901/Rare5/blob/images/Unknown.png?raw=true)
+![Activity Tracking]
 
 ---
 
