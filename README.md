@@ -39,7 +39,7 @@ In this report, we have proposed a health incentive program that consists of thr
 As mentioned previously, the program will consist of three pillars: *Gamifying Health*, *Smoking Cessation Program* and *Holistic Prevention and Educational Programs*.
 
 ### Gamifying Health
-<img src="https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif" width=30% height=30%>
+<img src="https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation" width=30% height=30%>
 
 Source: https://support.apple.com/en-mt/108359
 
