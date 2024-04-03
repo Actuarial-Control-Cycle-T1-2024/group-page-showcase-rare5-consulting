@@ -3,7 +3,7 @@
 # 2024 SOA Challenge 
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
 
-![Activity Tracking]
+![Activity Tracking](activity-module-calendar-history.png)
 
 ---
 
