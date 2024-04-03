@@ -22,8 +22,7 @@
 - [Risk and Risk Mitigation Considerations](risk-and-risk-mitigation-considerations)
 - [Conclusion](#conclusion)
 - [References](#references)
-- [Sources](#sources)
-  
+
 ---
 
 ## Objectives
@@ -41,7 +40,8 @@ In this report, we have proposed a health incentive program that consists of thr
 As mentioned previously, the program will consist of three pillars: *Gamifying Health*, *Smoking Cessation Program* and *Holistic Prevention and Educational Programs*.
 
 ### Gamifying Health
-![]("https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif")[Source 2](#sources)
+<img src="https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif" width="300" >
+#### Source: https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif
 
 The first part of our proposed health incentive program is to Gamify Health. This consists of creating a points-based incentives program that allows individuals to receive cash at the end of the calendar year if they achieve enough points. The points will be gained if individuals participate in healthy behaviours every day including sleeping seven hours, being outside during daylight hours for over 180 minutes, or achieving 10,000 steps. To ensure individuals are actively participating in healthy behaviours, the number of points rewarded for each activity will depend on the time commitment. For example, the points associated with spending 3 hours outside during the day will be higher than the points for achieving 10,000 steps. As a way of encouraging the development of positive habits, bonus points will be awarded to policyholders who continue to achieve over 90% of their daily goals for an extended duration (up to 50 years after the first goal was achieved). A breakdown of how points will be rewarded can be found in Appendix A.1. The goals that individuals are required to reach are also designed to ensure trackability; the harder it is to track, the less points associated to the goal.
 
@@ -215,7 +215,3 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 6. Qin, et al. (2020) Light Cigarette Smoking Increases Risk of All-Cause and Cause- Specific Mortality: Findings from the NHIS Cohort Study. Int J Environ Res Public Health. 2020 Jul 15;17(14):5122. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7399798/
 7. van den Brand, et al. (2017). Healthcare financing systems for increasing the use of tobacco dependence treatment. The Cochrane database of systematic reviews, 9(9), CD004305. Link: https://pubmed.ncbi.nlm.nih.gov/28898403/
 8. Wilkes S. (2008) The use of bupropion SR in cigarette smoking cessation. Int J Chron Obstruct Pulmon Dis.;3(1):45-53. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528204/#:~:text=Bupropion%20is%20 effective%20in%20the,reuptake%20within%20the%20synaptic%20cleft.
-
-## Sources
-1. (title gif source goes here)
-2. https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif
