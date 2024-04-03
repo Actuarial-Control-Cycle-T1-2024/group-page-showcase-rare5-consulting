@@ -3,7 +3,7 @@
 # 2024 SOA Challenge 
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
 
-![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/a5571103e08e66dbcf599cf593479a59a26c7c7c/eh-about-us-page-3.gif)
+<img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/a5571103e08e66dbcf599cf593479a59a26c7c7c/eh-about-us-page-3.gif" >
 #### Source: https://www.everydayhealth.com/about-us/ 
 ---
 
