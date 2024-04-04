@@ -196,14 +196,14 @@ Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying H
 - [EDA code](EDA.R)
 - [Pricing and profit model code](Pricing-Codes_T20-and-SPWL.r)
 - [Interest rate and inflation code](Assumptions.R)
-- [Mortality Tables](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Mortality%20Tables%20and%20Mortality%20Improvement.xlsx)
-- [Policyholder increase for Term life](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Economic%20Value/30%25/T20.xlsx)
-- [Policyholder increase for Whole life](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Economic%20Value/30%25/SPWL.xlsx)
-- [Economic Value](Economic_Value.xlsx)
+- [Mortality tables](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Mortality%20Tables%20and%20Mortality%20Improvement.xlsx)
+- [Policyholder increase for term life](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Economic%20Value/30%25/T20.xlsx)
+- [Policyholder increase for whole life](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/blob/main/Economic%20Value/30%25/SPWL.xlsx)
+- [Economic value](Economic_Value.xlsx)
 - [Savings code](Savings.R)
-- [Payout Tables](PayoutTables.xlsx)
-- [Mortality Savings](Savings.xlsx)
-- [Sensitivity Analysis](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/tree/0caef455567b2c70365c4437555e4a9b6e9f1f73/Economic%20Value)
+- [Payout tables](PayoutTables.xlsx)
+- [Mortality savings](Savings.xlsx)
+- [Sensitivity analysis](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-rare5-consulting/tree/0caef455567b2c70365c4437555e4a9b6e9f1f73/Economic%20Value)
 
  
 
