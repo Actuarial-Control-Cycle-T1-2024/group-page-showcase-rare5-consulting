@@ -40,10 +40,6 @@ As mentioned previously, the program will consist of three pillars: *Gamifying H
 
 ### Gamifying Health
 
-
-<img align="right" src="https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif" width="300">
-Source: https://support.apple.com/en-mt/108359
-
 <figure>
   <img src="https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" alt="">
   <figcaption>Source: https://support.apple.com/en-mt/108359</figcaption>
