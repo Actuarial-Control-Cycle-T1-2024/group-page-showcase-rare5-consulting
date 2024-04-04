@@ -3,8 +3,8 @@
 # 2024 SOA Challenge 
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
 
-<img src="https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1">
-Source: https://www.everydayhealth.com/about-us/ 
+<img src="https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859289_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-29.jpg">
+Source: https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859289_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-29.jpg
 
 ## Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan and Yasmin Haideri
 ---
