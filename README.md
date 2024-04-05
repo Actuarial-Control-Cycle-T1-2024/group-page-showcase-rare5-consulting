@@ -81,7 +81,7 @@ The program will involve campaigns in the form of workshops, reminder emails and
 
 <img align="center" height="auto" width="750" src="https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1"/>
 
-####(Image Source: https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1)
+(Image Source: https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1)
 
 ## Performance Metrics 
 In addition to creating a health incentive program, we also emphasise the importance of monitoring the program to ensure that it is achieving the desired response. The short-term and long-term metrics that should be monitored are outlined below.
