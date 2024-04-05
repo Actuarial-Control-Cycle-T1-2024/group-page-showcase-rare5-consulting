@@ -4,7 +4,7 @@
 # Rare5 Consulting: SuperLife’s Health Incentive Program Proposal
 
 <img src="https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859289_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-29.jpg"/>
-(Source: https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859289_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-29.jpg)
+(Image Source: https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859289_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-29.jpg)
 
 ## Members: Daniel Bounitch, Gordon Law, Minh Chau Diep, Shagota Khan and Yasmin Haideri
 ---
@@ -43,7 +43,7 @@ As mentioned previously, the program will consist of three pillars: *Gamifying H
 
 The first part of our proposed health incentive program is to Gamify Health. This consists of creating a points-based incentives program that allows individuals to receive cash at the end of the calendar year if they achieve enough points. The points will be gained if individuals participate in healthy behaviours every day including sleeping seven hours, being outside during daylight hours for over 180 minutes, or achieving 10,000 steps. To ensure individuals are actively participating in healthy behaviours, the number of points rewarded for each activity will depend on the time commitment. For example, the points associated with spending 3 hours outside during the day will be higher than the points for achieving 10,000 steps. 
 
-(Source: https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif)
+(Image Source: https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watchos5-series4-activity-close-all-rings-daily-achievement-animation.gif)
 
 As a way of encouraging the development of positive habits, bonus points will be awarded to policyholders who continue to achieve over 90% of their daily goals for an extended duration (up to 50 years after the first goal was achieved). A breakdown of how points will be rewarded can be found in Appendix A.1. The goals that individuals are required to reach are also designed to ensure trackability; the harder it is to track, the less points associated to the goal. 
 
@@ -197,7 +197,7 @@ Similar trends are found for T20 and SPWL products, where the increase in policy
 Rare5 Consulting advises SuperLife to adopt a three-pillar approach (Gamifying Health, Smoking Cessation Program and Holistic Prevention & Educational Programs) to incentivise healthy behaviours. This will reduce mortality rates, boost life insurance sales, and thus create economic value. Through the constant monitoring of performance metrics, we believe that the program will on average yield significant mortality savings. Despite several data limitations necessitating the development of assumptions, we remain confident that SuperLife will still benefit from mortality improvements and make strong progress towards its five objectives which collectively will improve the health & wellbeing of the Lumarian population.
 
 <img src="https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859303_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-36.jpg"/>
-(Source: https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859303_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-36.jpg)
+(Image Source: https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708859303_kartinki-pibig-info-p-simvol-zdorovogo-obraza-zhizni-kartinki-vk-36.jpg)
 
 ## Appendix available in [Final Report PDF](Rare5_Consulting_Report.pdf)
 
