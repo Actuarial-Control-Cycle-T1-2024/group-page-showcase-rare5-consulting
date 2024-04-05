@@ -80,6 +80,7 @@ Therefore, to help reduce mortality of existing policyholders, we have considere
 The program will involve campaigns in the form of workshops, reminder emails and community outreach. In the case of workshops, these will be advertised first to policyholders but is also open to the public. If non-policyholders are interested, they will need to provide their contact details. Therefore, the program will not only reduce the expected mortality of policyholders but will also have reputational benefits allowing SuperLife to gain exposure and attract new customers.
 
 <img src="https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1"/>
+
 <span style="font-size: 8px;">(Image Source: https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1)</span>
 
 ## Performance Metrics 
