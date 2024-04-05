@@ -81,7 +81,7 @@ The program will involve campaigns in the form of workshops, reminder emails and
 
 <img src="https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1"/>
 
-<p style="font-size: 8px;">(Image Source: https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1)</p>
+(Image Source: https://images.everydayhealth.com/images/healthy-living/eh-about-us-page-3.gif?sfvrsn=1daaea0a_1)
 
 ## Performance Metrics 
 In addition to creating a health incentive program, we also emphasise the importance of monitoring the program to ensure that it is achieving the desired response. The short-term and long-term metrics that should be monitored are outlined below.
@@ -156,7 +156,7 @@ To assess the economic value of the program, the profit was used. It was calcula
 
 #### *20-Year Term Life*
 Due to the improved mortality, the premiums charged per individual have improved across all segments (Appendix C.3), even with the increase of expenses charged to the policyholder with the program. The improvement is very minimal for the first 10 years, whilst the decrease is more noticeable when mortality improvements are realised. Due to decrease in premium collected, the profit per policyholder expectingly will decrease. However, this is offset by an increase in policyholder count.
-As shown in the figure to the right, the first 10 years showcases an increase in profit. This is due to an increase in expenses with very minimal mortality benefit. However, after the full benefit for mortality is realised, and the number of policyholders expected to join SuperLife increases, the overall PV of profit earned per year exceeds that of the status quo.
+As shown in the figure below, the first 10 years showcases an increase in profit. This is due to an increase in expenses with very minimal mortality benefit. However, after the full benefit for mortality is realised, and the number of policyholders expected to join SuperLife increases, the overall PV of profit earned per year exceeds that of the status quo.
 
 <img src="T20_PV_of_profits.png" alt="T20: Present Value of Profits Sold Each Year" width="600"/>
 
